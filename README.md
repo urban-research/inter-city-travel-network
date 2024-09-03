@@ -29,6 +29,3 @@ For a more detailed exploration of the data and results, please visit our [visua
 - `data/`: Contains the raw and processed data files used in the analysis.
 - `README.md`: This file.
 - `index.html`: The main page for the visualization dashboard.
-
-## Visualization Dashboard
-Explore the interactive visualization of the inter-city travel network [here](http://urban-research.github.io/inter-city-travel-network). This dashboard allows users to examine the changes in travel patterns over time and across different cities.
